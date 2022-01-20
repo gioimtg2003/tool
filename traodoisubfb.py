@@ -28,18 +28,7 @@ intro = \
 
 \033[1;91m===========================================================
 '''
-link0 ="http"
-link1 = "s://"
-link2 = "key"
-os.system('clear')
-link3 = "api"
-link4 = "test"
-link5 = ".000we"
-link6 = "bhost"
-link7 ="app."
-link8 ="com/"
-link9 = "tdsfb@."
-link10 = "php"
+
 def load():
     for _ in range(5, 0, -1):
         t = random.randint(1, 5)
